@@ -1,0 +1,8 @@
+A -> AB
+A -> num + A
+A -> eps.
+V -> (A)!
+B -> V
+V -> F * R
+F -> eps.
+R -> num
