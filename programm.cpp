@@ -1,19 +1,11 @@
 #include <iostream>
-
 #include <vector>
-
 #include <fstream>
-
 #include <string>
-
 #include <utility>
-
 #include <stdexcept>
-
 #include <set>
-
 #include <map>
-
 
 using namespace std;
 
